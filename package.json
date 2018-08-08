@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss-accessibility",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin that adds additional functionality to help improve accessibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-pallot/tailwindcss-accessibility.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "accessibility",
+    "a11y",
+    "plugin"
+  ],
+  "author": "Jack Pallot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jack-pallot/tailwindcss-accessibility/issues"
+  },
+  "homepage": "https://github.com/jack-pallot/tailwindcss-accessibility#readme",
+  "dependencies": {}
+}
